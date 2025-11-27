@@ -1,6 +1,6 @@
 # Sales Performance Dashboard – Power BI
 
-Detta projekt är skapat som en del av Kunskapskontroll 2 i kursen Python/Data Science. 
+Detta projekt är skapat som en del av Kunskapskontroll 2 i kursen Fördjupning i Pythonprogrammering
 Syftet är att bygga ett eget självständigt projekt med fokus på dataanalys och visualisering.
 
 ## 🔍 Projektbeskrivning
