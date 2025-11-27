@@ -1,0 +1,501 @@
+customer_id,name,age,membership,country
+1,Lauren Aguilar,69,Bronze,Costa Rica
+2,Steven Gonzalez,51,Platinum,Mauritius
+3,Crystal Rodriguez,22,Silver,Suriname
+4,Connor Long,59,Bronze,Germany
+5,Sierra Torres,40,Silver,Pitcairn Islands
+6,Colton Butler,24,Gold,Nicaragua
+7,Richard Sloan,48,Gold,Equatorial Guinea
+8,Erik Williams,52,Platinum,Bulgaria
+9,Erik Jacobs,41,Platinum,Bahrain
+10,Erica Simmons,22,Platinum,Gambia
+11,Norma Lee,38,Gold,Dominica
+12,Travis Velez,34,Silver,Kuwait
+13,Colin Owens,18,Silver,Bhutan
+14,Mary Morris,45,Silver,Rwanda
+15,Daniel Johnson,41,Platinum,Norway
+16,Justin Long,67,Platinum,Morocco
+17,Olivia Jones,27,Gold,Portugal
+18,Matthew Newman,38,Bronze,Central African Republic
+19,Savannah Arroyo,42,Platinum,South Africa
+20,Lisa Adams,41,Gold,Luxembourg
+21,Michael Watkins,35,Bronze,Antarctica (the territory South of 60 deg S)
+22,Jesus Rios,49,Platinum,Italy
+23,John Keller,43,Platinum,Croatia
+24,Sara Williams,59,Platinum,Latvia
+25,Eric May,51,Platinum,Saint Vincent and the Grenadines
+26,Samantha Flynn,44,Silver,Kuwait
+27,John White,54,Gold,Finland
+28,Edward Johns IV,25,Gold,Gabon
+29,Johnathan Brown,64,Gold,Belgium
+30,John Evans,58,Gold,Mali
+31,Brittany Kirk,18,Silver,Egypt
+32,Matthew Henson,33,Gold,Ghana
+33,Kyle Cox,36,Bronze,Poland
+34,Janet Velez,34,Platinum,Dominica
+35,Kenneth Carlson MD,59,Platinum,Sweden
+36,Theresa Guerrero,48,Gold,Saudi Arabia
+37,Kristy Thomas,56,Platinum,Guadeloupe
+38,Erica Nelson,67,Platinum,Estonia
+39,Edwin Ball,18,Platinum,Gibraltar
+40,Kayla Kidd,57,Silver,Switzerland
+41,Carl Cardenas,66,Silver,Bosnia and Herzegovina
+42,Oscar Clarke,35,Platinum,Ghana
+43,Bradley Casey,34,Silver,Faroe Islands
+44,Kenneth Smith,36,Gold,Tonga
+45,Evelyn Harrell,23,Gold,Uganda
+46,Antonio Santos MD,26,Gold,France
+47,Michael Merritt,63,Platinum,Norfolk Island
+48,Carolyn Jackson,29,Silver,Saint Martin
+49,Melanie Morgan,62,Platinum,Swaziland
+50,Lucas Howard,21,Platinum,France
+51,Samantha Johnson,18,Bronze,Cuba
+52,Anna Farmer,43,Gold,Saint Vincent and the Grenadines
+53,Cesar Sutton,67,Silver,Gabon
+54,Anna Brennan,70,Silver,Senegal
+55,Mike Wolfe,32,Bronze,Central African Republic
+56,Michael Allison,53,Silver,Uzbekistan
+57,Daniel Singleton,26,Silver,Ireland
+58,Jennifer Lewis,49,Platinum,Korea
+59,Haley Smith,20,Gold,Saint Lucia
+60,Lynn Sims,53,Silver,Holy See (Vatican City State)
+61,Carl Wells,24,Bronze,Netherlands
+62,Jeffery Nelson,26,Silver,Paraguay
+63,Amber Bautista,29,Silver,France
+64,Dawn Davis,31,Gold,Greece
+65,Phillip Wright,54,Bronze,Qatar
+66,Eric Jones,51,Bronze,Colombia
+67,Fernando Smith,22,Platinum,Central African Republic
+68,Gloria Lewis,19,Platinum,Honduras
+69,Jennifer Collins,54,Bronze,Venezuela
+70,Pamela Shah,39,Bronze,Gabon
+71,Tonya Shaw,33,Platinum,Maldives
+72,Darren Evans,43,Platinum,Gibraltar
+73,Jessica Young MD,56,Gold,Guatemala
+74,Lawrence Ramirez,61,Gold,British Indian Ocean Territory (Chagos Archipelago)
+75,Renee Sanchez,64,Silver,Greece
+76,Gregory Jackson,54,Bronze,Netherlands Antilles
+77,Daniel Mcknight,42,Silver,Thailand
+78,Jennifer Shah,37,Platinum,Turkey
+79,Sarah Smith DVM,59,Platinum,Saint Vincent and the Grenadines
+80,Joanne Lewis,51,Gold,Cuba
+81,Robert Martin,41,Gold,Cook Islands
+82,Ashlee Edwards,57,Bronze,Mozambique
+83,Christine Smith,21,Silver,Norfolk Island
+84,Joseph Payne,60,Bronze,Heard Island and McDonald Islands
+85,Brandon Gibbs,68,Gold,Isle of Man
+86,David Sullivan,53,Bronze,Netherlands
+87,Edward White,19,Bronze,Bahrain
+88,William Jenkins,32,Gold,Eritrea
+89,Jessica Porter,34,Platinum,Seychelles
+90,David Perez,34,Platinum,Eritrea
+91,Chelsea Navarro,43,Bronze,Dominica
+92,Michael Gardner,63,Gold,British Virgin Islands
+93,James Jones,65,Bronze,Albania
+94,Terry Randall,48,Gold,Falkland Islands (Malvinas)
+95,Albert Mendez,33,Silver,Portugal
+96,Michele Monroe,36,Silver,Slovenia
+97,Joel Shepard,62,Platinum,Lesotho
+98,Savannah Garcia,27,Gold,Albania
+99,Randall Diaz,23,Silver,Slovenia
+100,Virginia Whitaker,60,Gold,Portugal
+101,Erika Buck,64,Bronze,Spain
+102,Richard Dorsey,61,Gold,Tuvalu
+103,David Summers,26,Bronze,Finland
+104,Jesus Chang DDS,39,Bronze,Lebanon
+105,Joseph Tran,61,Gold,Cuba
+106,Andrea Woods,46,Silver,Pitcairn Islands
+107,Brenda Bishop,68,Gold,Cambodia
+108,Carolyn Harrison,42,Gold,Bouvet Island (Bouvetoya)
+109,Amanda Campbell,62,Silver,Estonia
+110,Lisa Wolfe,34,Bronze,Saudi Arabia
+111,Betty Hall,67,Silver,United States of America
+112,Emily Brennan,68,Bronze,Nepal
+113,Sara Stevens,56,Gold,Faroe Islands
+114,Connie Brooks,19,Silver,Estonia
+115,Carlos George,38,Gold,Macedonia
+116,Alexander Price,70,Platinum,Ethiopia
+117,Melinda Campbell,19,Silver,Comoros
+118,Carolyn Chavez,50,Gold,Guinea-Bissau
+119,Tony Kelley,60,Bronze,British Indian Ocean Territory (Chagos Archipelago)
+120,Ms. Alexandra Fowler,54,Platinum,Barbados
+121,Rachel Pearson,62,Gold,Pakistan
+122,Matthew Aguilar,65,Bronze,Svalbard & Jan Mayen Islands
+123,Richard Pierce,53,Silver,Kiribati
+124,Jeffrey Cannon,65,Platinum,Samoa
+125,Raven Martin,59,Platinum,Sao Tome and Principe
+126,Daniel Peterson,44,Platinum,Palestinian Territory
+127,Timothy Larson,50,Silver,Cuba
+128,Matthew Brown,66,Bronze,Australia
+129,Terri Gordon,38,Silver,Finland
+130,Christine Roach,21,Bronze,Korea
+131,Erik Gallegos,35,Platinum,Guinea
+132,Stephen Ramirez,61,Silver,India
+133,Keith Lewis,68,Platinum,Turks and Caicos Islands
+134,Jeffrey Young,37,Gold,Guadeloupe
+135,Brandi Pittman,52,Bronze,French Polynesia
+136,Donna Diaz,52,Bronze,El Salvador
+137,Jonathan Martin,63,Bronze,Cyprus
+138,Victoria Jones,57,Platinum,Gibraltar
+139,Katherine Johnson,25,Gold,Czech Republic
+140,James Wood,48,Platinum,Portugal
+141,Sharon Matthews,25,Platinum,Greece
+142,Samantha Martin,45,Gold,Senegal
+143,Lucas Fry,70,Gold,Mali
+144,William Murray,57,Platinum,South Georgia and the South Sandwich Islands
+145,Scott Gross,35,Gold,Nauru
+146,Elizabeth Craig,37,Platinum,Benin
+147,Sherry Aguilar,38,Silver,Madagascar
+148,Vanessa Lewis,42,Gold,Uruguay
+149,Kimberly Maldonado,49,Silver,Iceland
+150,Jessica Myers,45,Silver,Bulgaria
+151,Shane Nicholson,23,Platinum,Liechtenstein
+152,Joe Lee,46,Platinum,Norfolk Island
+153,Tracey Poole,43,Gold,Niue
+154,Pamela Miller,38,Gold,Bermuda
+155,Aaron Padilla,30,Gold,Latvia
+156,Latoya Berry,68,Platinum,Jamaica
+157,Jim Payne,41,Platinum,French Southern Territories
+158,Jason Walker,43,Gold,Saint Vincent and the Grenadines
+159,Christopher Hays,40,Bronze,Vanuatu
+160,Amanda Cohen,25,Silver,Cook Islands
+161,Mary Walker,33,Silver,Russian Federation
+162,Troy Simpson,31,Gold,El Salvador
+163,Christopher Campos,22,Gold,British Indian Ocean Territory (Chagos Archipelago)
+164,Adam Schwartz,20,Silver,Morocco
+165,Michelle Silva,21,Platinum,Nepal
+166,Ryan Ward,43,Silver,Portugal
+167,Raymond Ramirez,30,Gold,Czech Republic
+168,Emily Smith,58,Silver,United Kingdom
+169,Mr. Christopher Riggs,41,Bronze,New Zealand
+170,Crystal Russell,29,Bronze,Rwanda
+171,Angela Gould,61,Bronze,Bolivia
+172,Preston Campbell,50,Gold,Kazakhstan
+173,Tami Young,38,Platinum,Oman
+174,James Schneider,37,Platinum,Somalia
+175,Juan Morgan DVM,35,Silver,Grenada
+176,Michael Powell,49,Silver,Belgium
+177,Matthew Thompson,57,Gold,Sri Lanka
+178,John Phillips,19,Gold,Yemen
+179,David Wagner,56,Platinum,Nicaragua
+180,Jeffrey Gonzalez,54,Silver,Bulgaria
+181,Christy Buchanan,46,Platinum,South Africa
+182,Charles Sanchez,33,Platinum,Belgium
+183,James Hayes,52,Bronze,Tonga
+184,Lisa Miller,56,Gold,Belarus
+185,Jessica Arellano,51,Platinum,Lao People's Democratic Republic
+186,Kimberly Green,37,Silver,Tunisia
+187,Karen Coleman,49,Platinum,Saudi Arabia
+188,Martin Pena,59,Gold,Bahrain
+189,Mrs. Danielle Clarke,29,Gold,Chad
+190,Christopher Mcdonald,22,Platinum,Congo
+191,Penny Contreras,25,Silver,Israel
+192,James Fisher,43,Gold,Equatorial Guinea
+193,Isaac Wallace,30,Bronze,Malawi
+194,Monica Hickman,69,Bronze,India
+195,Sara Price,24,Bronze,Gibraltar
+196,Miguel Lara,18,Silver,Puerto Rico
+197,Dana Schultz,24,Silver,Falkland Islands (Malvinas)
+198,Kimberly Weber,23,Silver,Egypt
+199,Laura Palmer,26,Platinum,Saint Martin
+200,Jamie Ortiz,18,Silver,Ecuador
+201,Keith Alexander,50,Bronze,Seychelles
+202,Marcus Moore,28,Gold,Cayman Islands
+203,Anthony Liu,44,Bronze,Brazil
+204,Randy Jackson,28,Bronze,United Kingdom
+205,Sandra Hardy,49,Gold,Central African Republic
+206,Edwin Jenkins,26,Gold,Guatemala
+207,Matthew Miles,63,Bronze,French Guiana
+208,Natalie Shaw,33,Gold,Italy
+209,Cassandra Fuller,35,Platinum,Holy See (Vatican City State)
+210,Ricky Long,53,Bronze,Barbados
+211,Breanna Velazquez,34,Gold,Dominican Republic
+212,Cynthia Webb,38,Silver,Croatia
+213,Elizabeth Jimenez,38,Platinum,Grenada
+214,Richard Allen,38,Bronze,Botswana
+215,Sean Morris,38,Silver,Iceland
+216,Laura Gutierrez,31,Silver,Brunei Darussalam
+217,John Monroe,28,Platinum,Norfolk Island
+218,Jessica Nguyen,68,Gold,Mauritius
+219,Monica Hall,21,Bronze,Israel
+220,David Anderson,31,Silver,Mongolia
+221,Ryan Morris,49,Bronze,Svalbard & Jan Mayen Islands
+222,Patrick Gutierrez,24,Bronze,Slovenia
+223,Robert Ruiz,30,Bronze,Lao People's Democratic Republic
+224,Shirley Smith,39,Gold,Mayotte
+225,Abigail Lopez,30,Gold,Finland
+226,Jared Miller,30,Bronze,Macedonia
+227,Nancy Lee,48,Silver,Argentina
+228,Allen Walker,40,Gold,Bangladesh
+229,Katelyn Baldwin,63,Silver,Central African Republic
+230,Ashley Lawson,21,Bronze,Trinidad and Tobago
+231,Luke Myers,51,Silver,El Salvador
+232,Ashley Palmer,48,Gold,Sri Lanka
+233,Michael Hernandez,59,Silver,Montserrat
+234,Jacqueline Flores,48,Platinum,Namibia
+235,Carla Henry,23,Silver,Taiwan
+236,Sonya Lopez,66,Platinum,French Southern Territories
+237,Kyle Pierce,38,Bronze,Namibia
+238,Joshua Price,53,Bronze,Bosnia and Herzegovina
+239,Linda Howard,27,Bronze,Armenia
+240,Tiffany English,63,Silver,Mongolia
+241,Teresa Thomas,51,Platinum,Iceland
+242,Justin Castro,54,Bronze,Libyan Arab Jamahiriya
+243,Emily Flores,22,Bronze,Yemen
+244,Clarence Murray,56,Platinum,Zambia
+245,Kurt Lee,31,Platinum,Qatar
+246,Cassandra Powell,46,Bronze,Uruguay
+247,Mr. Scott Mitchell,19,Platinum,Latvia
+248,Lisa Rodriguez,35,Gold,Hong Kong
+249,Kristin Palmer,58,Bronze,Pakistan
+250,Thomas Orr,44,Bronze,Tokelau
+251,Kimberly Villegas,41,Platinum,Congo
+252,Julie Chaney,24,Platinum,Bahamas
+253,Kimberly Burke,57,Platinum,Gibraltar
+254,Curtis Perez,55,Platinum,Congo
+255,Lee White,70,Silver,Cameroon
+256,Amanda Craig,70,Platinum,Sri Lanka
+257,Jennifer Haley,36,Gold,Switzerland
+258,Mark Daugherty,21,Gold,Seychelles
+259,Joshua Bass,42,Platinum,France
+260,Sara Braun DVM,36,Platinum,Tonga
+261,Dawn Martin,42,Platinum,Djibouti
+262,Jessica Kent,68,Silver,Montenegro
+263,Russell White,55,Silver,Libyan Arab Jamahiriya
+264,Susan Jones,20,Silver,Croatia
+265,Angela Lane,42,Gold,Macedonia
+266,Jason Ramirez,32,Silver,Qatar
+267,Beth Ortiz,49,Platinum,Iceland
+268,Mr. Jeffrey Burgess,20,Silver,Greenland
+269,Steven Woods,49,Platinum,El Salvador
+270,Andrew Brown,27,Platinum,Togo
+271,Margaret Berry,45,Silver,Pitcairn Islands
+272,Samantha Stephenson,38,Gold,Poland
+273,Michelle Kelly,48,Silver,Andorra
+274,Sabrina Smith,28,Bronze,Guinea-Bissau
+275,Jennifer Ruiz,18,Silver,French Southern Territories
+276,Andrew Blackwell,28,Platinum,Lesotho
+277,Sandra Holden,69,Gold,Costa Rica
+278,Katie Harvey,32,Gold,Belize
+279,Sandra Taylor,54,Platinum,Jordan
+280,William York,33,Gold,Montenegro
+281,Joan Contreras,56,Platinum,Armenia
+282,Tina Hays,36,Silver,Nigeria
+283,Alexander Johnson,27,Gold,Taiwan
+284,Dr. Bryan Proctor,42,Bronze,Belgium
+285,Stephen Bush,18,Platinum,Equatorial Guinea
+286,Christopher Bailey,40,Platinum,Oman
+287,Jeffrey Morrison,41,Gold,Guam
+288,Lauren Mccall,60,Silver,Israel
+289,Adrian Ramirez,30,Bronze,Central African Republic
+290,Shawn Moore,41,Platinum,Albania
+291,Jacob Lutz,26,Silver,Burkina Faso
+292,Jennifer Ballard,30,Bronze,French Southern Territories
+293,James Rodriguez,50,Gold,Bouvet Island (Bouvetoya)
+294,Benjamin Campos,25,Silver,Cape Verde
+295,Shannon Thompson,18,Silver,Cote d'Ivoire
+296,Victoria Keller,20,Silver,Turks and Caicos Islands
+297,Cassandra Clark,58,Bronze,Suriname
+298,Ruben Martinez,18,Silver,Tonga
+299,Virginia Bennett DVM,33,Bronze,Andorra
+300,Michael Brooks,18,Bronze,Ecuador
+301,Michael Moss,68,Gold,British Indian Ocean Territory (Chagos Archipelago)
+302,Sara Myers,29,Silver,Gambia
+303,Tamara Knight,44,Silver,Saint Vincent and the Grenadines
+304,Jennifer Rivera,35,Silver,Mauritania
+305,April Alexander,61,Gold,Djibouti
+306,Anthony Ingram,52,Silver,Bangladesh
+307,Shannon Davis,50,Bronze,Nigeria
+308,David Norman,57,Gold,Saint Vincent and the Grenadines
+309,Stephanie Brown,19,Silver,Haiti
+310,Manuel Smith,57,Silver,Algeria
+311,Dale Clark,69,Silver,Andorra
+312,Robin Washington,51,Bronze,Cape Verde
+313,Adam Perez,43,Silver,Mozambique
+314,Robert Delacruz,22,Platinum,Falkland Islands (Malvinas)
+315,Phillip Hubbard,39,Bronze,Tuvalu
+316,Michael Bryant,19,Bronze,United States Virgin Islands
+317,Amber Gonzalez,35,Gold,Chile
+318,Erica Goodman,59,Bronze,Dominica
+319,Randall Phillips,18,Platinum,South Georgia and the South Sandwich Islands
+320,Melanie Kerr,64,Platinum,Uruguay
+321,Samuel Smith,44,Bronze,Oman
+322,Alexis Kelly DVM,50,Bronze,Kiribati
+323,Kristen Fry,41,Bronze,Lesotho
+324,Jonathan Peters,26,Gold,Guinea
+325,Stephen Robinson,46,Platinum,Faroe Islands
+326,Timothy Gonzalez,20,Gold,Pitcairn Islands
+327,Cindy Ramirez,70,Silver,Ireland
+328,Sheila Bishop,66,Platinum,Cameroon
+329,Allison Martin,52,Silver,British Indian Ocean Territory (Chagos Archipelago)
+330,Jose Burke,22,Gold,British Indian Ocean Territory (Chagos Archipelago)
+331,Christine Russell,40,Silver,Iraq
+332,Cody Lynch,45,Bronze,Mali
+333,Kristen Yates,23,Bronze,Slovakia (Slovak Republic)
+334,Mrs. Tracey Griffin,52,Bronze,Heard Island and McDonald Islands
+335,Matthew Leonard,18,Platinum,Burundi
+336,David Mendez,58,Gold,American Samoa
+337,Joel Anderson,53,Silver,Angola
+338,Rebecca Sanchez,47,Platinum,Jersey
+339,Amber Garner,21,Gold,Bosnia and Herzegovina
+340,Patricia Jenkins,56,Platinum,United States Minor Outlying Islands
+341,Debra Campbell,49,Gold,Argentina
+342,Barbara Knox,66,Bronze,Iraq
+343,Scott Moore,22,Silver,Ghana
+344,Gregory Rivera,29,Platinum,Central African Republic
+345,David Nelson MD,55,Gold,Spain
+346,Dr. Dawn George,36,Silver,Philippines
+347,Kyle Jackson,64,Bronze,Lebanon
+348,Shawn Haynes,42,Gold,Pitcairn Islands
+349,Jaime Gonzalez,36,Bronze,Guatemala
+350,Scott Davis,52,Platinum,Iran
+351,Bryan Brown,27,Platinum,Cocos (Keeling) Islands
+352,Danny Sutton,18,Gold,Saint Kitts and Nevis
+353,Samantha Padilla,54,Platinum,Marshall Islands
+354,William Strong,27,Platinum,Uganda
+355,Holly Lynch,42,Silver,Guatemala
+356,Dr. Daniel Osborne,65,Bronze,Tuvalu
+357,William Melendez,20,Platinum,Bangladesh
+358,Shannon Jackson,48,Silver,United States Virgin Islands
+359,Aaron Gilbert,64,Platinum,Hungary
+360,Joseph Parker,59,Gold,Macao
+361,Melissa Matthews,40,Silver,Brunei Darussalam
+362,Tamara Smith,59,Bronze,French Guiana
+363,Kevin Rodriguez,57,Gold,Antigua and Barbuda
+364,Peter Newman,39,Silver,Jersey
+365,Evan Hardy,29,Platinum,Paraguay
+366,Richard Lowe,37,Bronze,Uruguay
+367,Omar Conley,52,Gold,Benin
+368,Brittany Taylor,45,Gold,Turks and Caicos Islands
+369,Mr. Daniel Harris,22,Silver,Kuwait
+370,Anthony Navarro,47,Silver,Albania
+371,Katelyn Cole,61,Gold,Kiribati
+372,Joshua Baker PhD,34,Gold,Kazakhstan
+373,Richard Mendoza,58,Gold,French Guiana
+374,Justin Diaz,57,Silver,Angola
+375,Charles Horton,44,Gold,Suriname
+376,April West,38,Bronze,Czech Republic
+377,Joseph Rice,59,Bronze,Haiti
+378,Anthony Hernandez,40,Silver,Trinidad and Tobago
+379,Robert Castillo,18,Silver,French Guiana
+380,Sarah Lewis,24,Gold,Poland
+381,Logan Becker,32,Gold,Marshall Islands
+382,Natalie Garcia,59,Silver,Heard Island and McDonald Islands
+383,Dana Cannon,30,Gold,Cape Verde
+384,Matthew Campbell,50,Bronze,Antarctica (the territory South of 60 deg S)
+385,Joshua Perry MD,70,Platinum,Saint Helena
+386,Bradley Lopez,43,Gold,Ecuador
+387,Amy Thomas,56,Platinum,Martinique
+388,Douglas West,64,Bronze,Venezuela
+389,Sandra Murphy,27,Bronze,Moldova
+390,Michael Pratt,26,Platinum,Philippines
+391,Donald Johnson,26,Gold,United States Virgin Islands
+392,Holly Taylor,29,Platinum,Heard Island and McDonald Islands
+393,Daniel Thomas,32,Bronze,Antigua and Barbuda
+394,Caleb Mitchell,54,Silver,Yemen
+395,Jamie Johnson,58,Gold,Liberia
+396,Ethan Lowe,25,Silver,Sudan
+397,Whitney Brown,31,Silver,Cyprus
+398,Dean Sanchez,44,Platinum,Tonga
+399,Diane Adams,58,Platinum,El Salvador
+400,Roy Miller,57,Platinum,Uzbekistan
+401,Daniel Sanders,26,Silver,Macao
+402,Nichole Rojas,25,Bronze,Albania
+403,James Newman,62,Gold,France
+404,David Haynes,66,Gold,Moldova
+405,Billy Wright,51,Gold,Lesotho
+406,Mr. Bruce Knapp,51,Bronze,Congo
+407,Michael Wise,30,Silver,Saudi Arabia
+408,Dr. Michael Goodman MD,48,Gold,Saint Lucia
+409,Laurie Bowman,55,Platinum,Colombia
+410,Matthew Thomas,41,Platinum,Haiti
+411,Danny Black,70,Gold,Macedonia
+412,Miguel Olson,30,Gold,Yemen
+413,Susan Hamilton,35,Gold,Moldova
+414,Vanessa Davis,64,Gold,Colombia
+415,Adam Li,61,Gold,Zambia
+416,Steven Torres,59,Gold,Rwanda
+417,Sarah Hunt,41,Platinum,Andorra
+418,Ronnie Welch,49,Silver,Belgium
+419,George Bauer,68,Gold,Congo
+420,Teresa Rangel,34,Bronze,Trinidad and Tobago
+421,Sarah Cook,50,Silver,Hungary
+422,Carrie Ochoa,43,Bronze,Falkland Islands (Malvinas)
+423,Kristen Thompson,32,Gold,Mongolia
+424,Jennifer Wilson,47,Silver,Armenia
+425,Andrew White,22,Silver,Dominican Republic
+426,Andrew Moore,34,Platinum,Guyana
+427,Carla Miranda,30,Silver,Mexico
+428,Lawrence Ortiz,24,Gold,Antarctica (the territory South of 60 deg S)
+429,Timothy Cole,64,Silver,Ecuador
+430,Philip Schmidt,55,Gold,Bahrain
+431,David Garza,30,Gold,Russian Federation
+432,Rebecca Thomas,62,Gold,Uzbekistan
+433,Brooke Brown,49,Platinum,Pitcairn Islands
+434,Maria Leblanc,36,Silver,Canada
+435,Mr. David Hammond II,44,Platinum,Costa Rica
+436,Brandon Harris,65,Platinum,Luxembourg
+437,Nicholas Spencer,38,Platinum,Estonia
+438,Jennifer Gamble,34,Platinum,Cook Islands
+439,Faith Russell,26,Silver,Congo
+440,Joanne Carter,60,Bronze,Northern Mariana Islands
+441,Barbara Miller,30,Gold,Afghanistan
+442,Nicole Russell,43,Silver,Vietnam
+443,Tracey Robinson,47,Platinum,United States Minor Outlying Islands
+444,Megan Gonzalez,35,Gold,Antigua and Barbuda
+445,William Gallagher,56,Platinum,Azerbaijan
+446,Rebekah Nichols,30,Silver,Kenya
+447,Samantha Pacheco,62,Platinum,Guadeloupe
+448,Beth Turner,26,Platinum,American Samoa
+449,Antonio Marks,20,Silver,Saint Helena
+450,Stephanie Marshall,60,Bronze,Angola
+451,Rita Allen,27,Silver,Saint Pierre and Miquelon
+452,Kristin Andrews,69,Silver,Niger
+453,Victoria Bell,43,Silver,Nauru
+454,Daniel Rivera,43,Platinum,Honduras
+455,Brent David,45,Silver,Afghanistan
+456,Jacqueline Fox,58,Bronze,Bahamas
+457,Madison Turner,45,Gold,Brunei Darussalam
+458,Terrance Williams,69,Gold,Tonga
+459,Briana Pace,48,Platinum,Aruba
+460,Devin Cross,59,Silver,Micronesia
+461,Anna Schmidt,64,Gold,Trinidad and Tobago
+462,Tiffany Malone,35,Bronze,Norway
+463,Ernest Salazar,69,Bronze,Guernsey
+464,Amy Jimenez,52,Bronze,Angola
+465,Katherine Pope,64,Silver,Bahamas
+466,Dalton Walker,24,Silver,Tanzania
+467,Stephen Schneider,24,Platinum,Liberia
+468,Jonathan Banks,40,Platinum,United States Minor Outlying Islands
+469,Crystal Scott,48,Platinum,Togo
+470,Bryan Garcia,59,Gold,Azerbaijan
+471,Olivia Hill,31,Bronze,Puerto Rico
+472,William Garrett,62,Platinum,Guam
+473,Mr. Marcus Pittman DDS,24,Gold,Taiwan
+474,Laura Estrada,47,Silver,Timor-Leste
+475,Bryan Nelson,49,Silver,Rwanda
+476,Kimberly Baker,65,Bronze,Kuwait
+477,Robert Hays,51,Bronze,Puerto Rico
+478,Joshua Clark,26,Bronze,Marshall Islands
+479,Alexandra Vazquez,50,Platinum,Vanuatu
+480,Holly Lloyd,48,Gold,Barbados
+481,Sarah Holmes,58,Silver,Bulgaria
+482,John White,42,Platinum,Croatia
+483,Mrs. Sandra Nunez,70,Platinum,Uruguay
+484,Philip Roberts,24,Bronze,Azerbaijan
+485,Erika Williams,28,Bronze,Equatorial Guinea
+486,Madeline Russell,40,Silver,Saudi Arabia
+487,Steven Johnson,57,Platinum,Finland
+488,Keith Romero,18,Bronze,Papua New Guinea
+489,Alicia Chavez,30,Silver,Austria
+490,John Lopez,32,Silver,Vanuatu
+491,Tina Patton,19,Gold,Israel
+492,Christina Little,66,Gold,Philippines
+493,Gary Douglas,61,Bronze,Norfolk Island
+494,Karen Ryan,32,Bronze,Eritrea
+495,Timothy Baker,56,Gold,Belarus
+496,Mackenzie Schneider,45,Silver,Yemen
+497,Tammy Stevens,53,Platinum,Jersey
+498,Philip Mitchell,29,Platinum,Trinidad and Tobago
+499,James Williams,70,Platinum,Czech Republic
+500,Gabrielle Smith,53,Bronze,Rwanda
